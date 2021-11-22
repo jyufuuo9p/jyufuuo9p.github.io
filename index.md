@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 个人简介
+刘思淼 2005010167 女 视觉传达2006
 
-You can use the [editor on GitHub](https://github.com/jyufuuo9p/jyufuuo9p.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+出生日期：2002.06.22 电子邮箱：393718280@qq.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# 技能总结：意大利语，追星认人，运动，翻跟头
+#兴趣爱好：追星，日语，排球
+教育背景：本科在读
+## 主修课程：视觉传达
+获奖情况
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 自我评价： 我是一个活泼开朗，热情大方的女孩。在学校，我尊师守纪；在班里，我团结同学，与同学和平相处。积极参加学校组织的各项活动，如：值周，霸王鞭等。能够认真的完成老师布置的作业。学习成绩优秀。但我的听讲状态不是很好，今后我会继续努力，把我的听讲问题改掉。做到自己的最优秀！成为老师的骄傲！老师很好，学到了很多东西，希望完结撒花。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jyufuuo9p/jyufuuo9p.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
